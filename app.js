@@ -6,4 +6,4 @@ import express from 'express';
 
 app.listen('3000');
 
-console.log('teste');
+console.log('teste2');
